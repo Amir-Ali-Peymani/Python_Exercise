@@ -9,5 +9,5 @@ This repository contains a variety of Python projects, ranging from simple scrip
 Project List
 
 Here are some of the notable projects included in this repository:
-Day One: Completed the foundational tasks and exercises.
 
+Day One: Completed the foundational tasks and exercises.
