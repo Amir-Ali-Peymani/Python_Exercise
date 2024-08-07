@@ -92,7 +92,7 @@ Technologies Used
 
 -Python 3.x
 
--Libraries: pandas, turtle, etc.
+-Libraries: pandas, turtle, tkinter, etc.
 
 -CSS (for web-related projects)
 
